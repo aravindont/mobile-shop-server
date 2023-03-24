@@ -1,0 +1,113 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEO_eIGzDRpkTx9VukpJjbHDbeGwOUTfh4Q&usqp=CAU",
+      "name": "iphone 13",
+      "price": "39999"
+    },
+    {
+      "id": 2,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1672740784.31939923!348x348.jpg?f=webp",
+      "name": "Redmi Note 12 Pro 5G",
+      "price": "24999"
+    },
+
+    {
+      "id": 3,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1662398930.47448521!348x348.jpg?f=webp",
+      "name": "Redmi A1",
+      "price": "5999"
+    },
+    {
+      "id": 4,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1632716933.14639613!348x348.jpg?f=webp",
+      "name": "Redmi 9i Sport",
+      "price": "12999"
+    },
+    {
+      "id": 5,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1658288433.09021941!348x348.jpg?f=webp",
+      "name": "Redmi K50i 5G",
+      "price": "22999"
+    },
+    {
+      "id": 6,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1647422870.19333400!348x348.png?f=webp",
+      "name": "Redmi 10",
+      "price": "8999"
+    },
+    {
+      "id": 7,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1650393918.41091682!348x348.png?f=webp",
+      "name": "Redmi 10A",
+      "price": "7499"
+    },
+    {
+      "id": 8,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1669990428.24681461!348x348.png?f=webp",
+      "name": "Redmi 10A Sport",
+      "price": "9999"
+    },
+    {
+      "id": 9,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1638175346.68162090!348x348.jpg?f=webp",
+      "name": "Redmi Note 11T 5G",
+      "price": "16999"
+    },
+    {
+      "id": 10,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1646677509.57766722!348x348.png?f=webp",
+      "name": "Redmi Note 11 Pro + 5G",
+      "price": "20999"
+    },
+    {
+      "id": 11,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1661449186.00414667!348x348.jpg?f=webp",
+      "name": "Redmi Note 11SE",
+      "price": "13999"
+    },
+    {
+      "id": 12,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1644212124.59044616!348x348.png?f=webp",
+      "name": "Redmi Note 11",
+      "price": "11999"
+    },
+    {
+      "id": 13,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1665657395.99737831.jpg?width=400&height=400",
+      "name": "Redmi A1+",
+      "price": "74999"
+    },
+    {
+      "id": 14,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1494920678.62048121.jpg?width=400&height=400",
+      "name": "Redmi 4",
+      "price": "2999"
+    },
+    {
+      "id": 15,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1608119118.32981941.png?width=400&height=400",
+      "name": "Redmi 9 Power",
+      "price": "13499"
+    },
+    {
+      "id": 16,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1571208664.39472453.png?width=400&height=400",
+      "name": "Redmi Note 8 Pro",
+      "price": "12999"
+    },
+    {
+      "id": 17,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1628859297.27166292.png?width=400&height=400",
+      "name": "Redmi Note 8 Pro",
+      "price": "15999"
+    },
+    {
+      "id": 18,
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1571208664.39472453.png?width=400&height=400",
+      "name": "Redmi Note 10 Pro Max",
+      "price": "15999"
+    }
+  ]
+}
